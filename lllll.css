@@ -1,0 +1,111 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    outline: 0%;
+    box-sizing:border-box ;
+    text-decoration: none;
+    font-family: 'News Cycle', sans-serif;
+
+}
+header{
+width: 100%;
+float: left;
+background-color:blueviolet;
+color: white;
+padding: 20px;
+}
+
+.container{
+background-color:blueviolet;
+width: 90%;
+margin: auto;
+}
+
+.navi{
+width: 100%;
+float: left;
+}
+
+.logho{
+width: 50%;
+float: left;
+
+}
+
+
+.menu{
+    width: 50%;
+    float: left;
+    text-align: end;
+
+
+    
+}
+
+.menu li :hover{
+    background-color: rgba(0, 0, 0, 0.205);
+}
+.menu li{
+display: inline-block;
+width:15%;
+padding: 2px;
+text-align: end;
+
+}
+.menu a{
+font-size: 17px;
+color: white;
+font-weight: 600;
+
+}
+.hero{
+    width: 60%;
+    margin: auto;
+    
+    text-align: center;
+    color: black;
+    padding: 50px 0px;
+
+
+}
+
+.hero a button{
+width: 20%;
+background-color: chocolate;
+color: aliceblue;
+
+
+}
+
+#class{
+    background-color: aqua;
+    color: aliceblue;
+width: 100%;
+float: left;
+padding: 50px 0px;
+}
+
+.id{
+ background-color: blueviolet;
+ width: 90%;
+ margin: auto;
+ 
+
+}
+.write{
+    width: 100%;
+    float: left;
+    text-align:center;
+    padding: 0px 0px;
+}
+.box-part{
+    width: 100%;
+    float: left;
+}
+.box{
+    width: 25%;
+    float: left;
+    margin: auto;
+    padding: 50px 0px;
+}
